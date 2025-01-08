@@ -115,7 +115,7 @@
                             <tr>
                             <td class="text-center" colspan="4" >
                               <img src="images/myimg.jpeg" height="250px" width="250px" style="opacity: 65%;"/><br>
-                              <label style="font-size:20px;"><b>KRUSNANSH GUPTA</b></label><br>
+                              <label style="font-size:20px;"><b>Shamsher alam</b></label><br>
                               
                                 <!--diff  -->
                                 
