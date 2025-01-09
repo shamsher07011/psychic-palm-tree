@@ -1,7 +1,6 @@
 
 
 
-
 <!DOCTYPE html>
 <html lang="en" class="wide wow-animation smoothscroll scrollTo">
 
